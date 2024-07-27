@@ -6,5 +6,5 @@ var username = usernameInput.ValueMax;
 var usernameDisplay = document.createElement("div");
 usernameDisplay.innerHTML = username;
 usernameDisplay.classList.add("username");
-document.querySelector(".profile").appendChild(usernameDisplay) inner.HTML;
+document.querySelector(".profile").appendChild(usernameDisplay);
 
